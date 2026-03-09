@@ -1,5 +1,3 @@
-Here's the complete README properly formatted in markdown:
-
 # Deep Learning Image Classifier for Flower Species
 
 ## Project Overview
